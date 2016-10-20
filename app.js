@@ -1,3 +1,3 @@
 (function (){
-  $('h1').text("changed!");
+  $('h1').text("Changed again");
 })()
